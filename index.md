@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "LL"
 ---
 I am an aspiring master's student in Artificial Intelligence at the [Queen Mary University of London](https://www.qmul.ac.uk). My current research is centered around Natural Language. 
